@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="phone_16_tablet_small_24_tablet_small_land_40_tablet_big_40">16dp</dimen>
+    <dimen name="start_guide_phone_landscape_15_tablet_15_other_0">0.0</dimen>
+    <dimen name="end_guide_phone_landscape_85_tablet_85_other_100">1.0</dimen>
+</resources>

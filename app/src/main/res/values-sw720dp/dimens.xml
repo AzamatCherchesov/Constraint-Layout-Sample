@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="phone_16_tablet_small_24_tablet_small_land_40_tablet_big_40">40dp</dimen>
+</resources>

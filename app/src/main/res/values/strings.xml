@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Constraint Layout Sample</string>
+    <string name="like">like</string>
+    <string name="share">share</string>
+    <string name="download">download</string>
+    <string name="amazing_photo">amazing photo</string>
+    <string name="sweat_home">sweat home</string>
+    <string name="cold">cold</string>
+    <string name="winter">winter</string>
+    <string name="flowers">flowers</string>
+    <string name="morning">morning</string>
+    <string name="tags">Tags</string>
+    <string name="i_ve_done_this_photo_in_the_morning">I\'ve done this photo in the morning</string>
+    <string name="_10_january_2021">10 January 2021</string>
+    <string name="date">Date:</string>
+    <string name="my_beautiful_photo">My beautiful photo</string>
 </resources>
